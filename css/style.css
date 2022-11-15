@@ -8647,6 +8647,7 @@ button.scroltop {
 }
 .section-full {
     position: relative;
+    /* filter: grayscale(100%); */
 }
 .section-full:last-child {
     margin-bottom: -50px;
